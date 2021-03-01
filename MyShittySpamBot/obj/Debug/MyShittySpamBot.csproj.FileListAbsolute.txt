@@ -1,0 +1,10 @@
+C:\Users\Crafter\RiderProjects\MyShittySpamBot\MyShittySpamBot\bin\Debug\MyShittySpamBot.exe.config
+C:\Users\Crafter\RiderProjects\MyShittySpamBot\MyShittySpamBot\bin\Debug\MyShittySpamBot.exe
+C:\Users\Crafter\RiderProjects\MyShittySpamBot\MyShittySpamBot\bin\Debug\MyShittySpamBot.pdb
+C:\Users\Crafter\RiderProjects\MyShittySpamBot\MyShittySpamBot\obj\Debug\MyShittySpamBot.csprojAssemblyReference.cache
+C:\Users\Crafter\RiderProjects\MyShittySpamBot\MyShittySpamBot\obj\Debug\MyShittySpamBot.Properties.Resources.resources
+C:\Users\Crafter\RiderProjects\MyShittySpamBot\MyShittySpamBot\obj\Debug\MyShittySpamBot.csproj.GenerateResource.cache
+C:\Users\Crafter\RiderProjects\MyShittySpamBot\MyShittySpamBot\obj\Debug\MyShittySpamBot.csproj.CoreCompileInputs.cache
+C:\Users\Crafter\RiderProjects\MyShittySpamBot\MyShittySpamBot\obj\Debug\MyShittySpamBot.exe
+C:\Users\Crafter\RiderProjects\MyShittySpamBot\MyShittySpamBot\obj\Debug\MyShittySpamBot.pdb
+C:\Users\Crafter\RiderProjects\MyShittySpamBot\MyShittySpamBot\obj\Debug\MyShittySpamBot.Form1.resources
